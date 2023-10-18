@@ -1,0 +1,35 @@
+/* body{
+    text-align: center;
+    background-color: #333;
+    font-size: xx-large;
+    color: wheat;
+}
+#clickButton{
+    background-color: orange;
+color: white;
+font-size: xx-large;
+font-weight: bolder;
+border-radius: 30px;
+
+}
+.container{
+    background-color: #333;
+    animation-name: btnani;
+animation-duration: 10s;
+justify-content: center;
+} */
+*{
+    background-color: #333;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+.container {
+    background-color: aqua;
+}
+#clickButton{
+    background-color: orange;
+}
+
+
+
